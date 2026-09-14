@@ -93,8 +93,8 @@ export const tracks = [
     kicker: "04 / comfort",
     heading: "daylight",
     copy: [
-      "Daylight, another one of your fav's.",
-      "This song resembles the energy and charm you bring in.",
+      "Daylight, as the name suggests, this songs talks about the light you have.",
+      "It song resembles the energy and charm you bring in.",
     ],
     image: {
       src: "/images/prati/photo-04.jpg",
