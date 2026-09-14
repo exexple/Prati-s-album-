@@ -72,7 +72,7 @@ export const tracks = [
     heading: "darkhaast",
     copy: [
       "Darkhaast, don't know much about this one tho but.",
-      "I think I've been more curious about the rest of it.",
+      "I think I've been more curious about this as ik you really love this song.",
     ],
     image: {
       src: "/images/prati/photo-03.jpg",
@@ -132,6 +132,7 @@ export const sideB = {
   copy: [
     "Most albums have a favourite track.",
     "I don't think this one does — every song here was centred around you and somehow every one of them resembled  you in a slightly different way.",
+    "this was a little something from my side, i hope you like it.",
   ],
   dedication: "for prati.",
   closing: ["end of album.", "for now."],
