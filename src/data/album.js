@@ -94,7 +94,7 @@ export const tracks = [
     heading: "daylight",
     copy: [
       "Daylight, as the name suggests, this songs talks about the light you have.",
-      "It song resembles the energy and charm you bring in.",
+      "this song resembles the energy and charm you bring in.",
     ],
     image: {
       src: "/images/prati/photo-04.jpg",
