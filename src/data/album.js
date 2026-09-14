@@ -131,7 +131,7 @@ export const sideB = {
   heading: "side b",
   copy: [
     "Most albums have a favourite track.",
-    "I don't think this one does — every song here ended up reminding me of you in a slightly different way.",
+    "I don't think this one does — every song here was centred around you and somehow every one of them resembled  you in a slightly different way.",
   ],
   dedication: "for prati.",
   closing: ["end of album.", "for now."],
