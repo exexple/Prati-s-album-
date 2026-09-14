@@ -3,7 +3,7 @@
 
 export const albumMeta = {
   title: "prati's album",
-  subtitle: "five songs, six photographs, a few things that felt like you.",
+  subtitle: "a few things that were tailored specifically for you 🌺.",
 };
 
 // Playback: fill in ONE of these per track once you have the rights to do so.
@@ -27,8 +27,8 @@ export const tracks = [
     kicker: "01 / warmth",
     heading: "lover",
     copy: [
-      "Some people don't have to try to be warm.",
-      "Things around them just settle a little, on their own.",
+      "lover, one of your most fav songs.",
+      "I remember how you were singing this song in kosu's car.",
     ],
     image: {
       src: "/images/prati/photo-01.jpg",
@@ -49,8 +49,8 @@ export const tracks = [
     kicker: "02 / wonder",
     heading: "enchanted",
     copy: [
-      "Some evenings aren't special on their own.",
-      "They just happen to have the right person in them.",
+      "enchanted, I'm keeping this here with a specific meaning.",
+      "As i keep on saying 'smile suits you' and somehow this feels like the perfect way to say it.",
     ],
     image: {
       src: "/images/prati/photo-02.jpg",
@@ -71,7 +71,7 @@ export const tracks = [
     kicker: "03 / depth",
     heading: "darkhaast",
     copy: [
-      "Everyone gets the version of you that's easy to see.",
+      "Darkhaast, don't know much about this one tho but.",
       "I think I've been more curious about the rest of it.",
     ],
     image: {
@@ -93,8 +93,8 @@ export const tracks = [
     kicker: "04 / comfort",
     heading: "daylight",
     copy: [
-      "Some people don't light up a room.",
-      "They just make it a calmer place to be in.",
+      "Daylight, another one of your fav's.",
+      "This song resembles the energy and charm you bring in.",
     ],
     image: {
       src: "/images/prati/photo-04.jpg",
@@ -114,7 +114,7 @@ export const tracks = [
     artist: "Joshua Bassett",
     kicker: "05 / heaven is you",
     heading: null,
-    copy: ["this one wasn't on your list.", "I put it there myself."],
+    copy: ["this one wasn't on your list.", "I put it there myself cause i felt this as the perfect one for this."],
     image: {
       src: "/images/prati/photo-05.jpg",
       alt: "A candid photograph of Prati",
